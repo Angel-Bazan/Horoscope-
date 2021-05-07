@@ -131,3 +131,8 @@ width: 10rem;
       opacity: 0;
     }
 } */
+@media (min-width: 30em) and (max-width: 50em) {
+ body{
+   width: 100%;
+  }
+}
