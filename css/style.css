@@ -57,13 +57,11 @@ input{
     width: 10rem;
     background-color:rgb(255, 255, 255), rgb(59, 59, 59);
 	
+  overflow: visible;
 	@media (max-width:480px) { 
 	height: 3rem; 
 	width: 12rem;
 	}
-
-
-  overflow: visible;
 }
 button{
   margin: 10px;
