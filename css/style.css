@@ -56,6 +56,11 @@ input{
   height: 2rem;
     width: 10rem;
     background-color:rgb(255, 255, 255), rgb(59, 59, 59);
+	
+	@media (max-width:480px) { 
+	height: 3rem; 
+	width: 12rem;
+	}
 
 
   overflow: visible;
