@@ -131,7 +131,7 @@ width: 10rem;
       opacity: 0;
     }
 } */
-@media (min-width: 30em) and (max-width: 50em) {
+@media (min-width: 400px) and (max-width: 600px) {
  body{
    width: 100%;
    background: no-repeat;
