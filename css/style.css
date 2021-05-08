@@ -27,10 +27,7 @@ body{
 #180049, #0018a8, #894fff, #a980fc, #d5c1fe); */
 background:url("images/Purple.Gif")
 	@media (max-width:480px) {
-		background: white;
-	}
-	@media (max-width:768px){
-		background: white; 
+		background: no-repeat;
 	}
 	
 }
