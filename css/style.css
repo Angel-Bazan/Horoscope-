@@ -59,8 +59,8 @@ input{
 	
   overflow: visible;
 	@media (max-width:480px) { 
-	height: 3rem; 
-	width: 12rem;
+	height: 5rem; 
+	width: 17rem;
 	}
 }
 button{
