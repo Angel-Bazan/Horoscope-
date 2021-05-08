@@ -59,7 +59,7 @@ input{
 	
   overflow: visible;
 	@media (max-width:480px) { 
-	height: 5rem; 
+	height: 10rem; 
 	width: 17rem;
 	}
 }
